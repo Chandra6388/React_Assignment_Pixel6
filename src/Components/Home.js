@@ -144,7 +144,7 @@ const Home = () => {
                             <th>Image</th>
                             <th onClick={sortUserName}>Full Name
                                 <i className={`bi ${FullNameUpDownArrow ? 'bi-arrow-down-short' : 'bi-arrow-up-short'}`} style={{ cursor: 'pointer' }}></i></th>
-                            <th >Demography</th>
+                             <th >Demography</th>
                             <th >Designation</th>
                             <th >Location</th>
                         </tr>
